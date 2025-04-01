@@ -21,3 +21,7 @@ Like npm start / yarn start, but also attempts to open your app in the iOS Simul
 npm run android
 
 Like npm start / yarn start, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see React Native docs for detailed setup).
+
+![Simulator Screenshot - iPhone 15 Pro - 2025-04-01 at 14 35 49](https://github.com/user-attachments/assets/21d6cf98-afe8-4442-a125-bc3aace1acb4)
+
+
